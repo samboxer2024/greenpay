@@ -1,0 +1,19 @@
+{
+  "name": "greenpay-website",
+  "version": "1.0.0",
+  "description": "Modern responsive website for GreenPay - Banking solutions for modern businesses",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "dev-python": "python app.py",
+    "build": "vite build",
+    "preview": "vite preview",
+    "install-python": "pip install -r requirements.txt"
+  },
+  "keywords": ["greenpay", "banking", "fintech", "payments", "responsive", "website"],
+  "author": "GreenPay Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
