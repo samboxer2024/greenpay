@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "vite",
     "dev-python": "python app.py",
+    "dev-python": "python app.py",
     "build": "vite build",
     "preview": "vite preview",
+    "install-python": "pip install -r requirements.txt"
     "install-python": "pip install -r requirements.txt"
   },
   "keywords": ["greenpay", "banking", "fintech", "payments", "responsive", "website"],
